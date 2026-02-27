@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nota2104coda
-- 👀 I’m interested in LLMs and hobbyist automation like RPi
-- 🌱 I’m currently learning to use offline LLMs
+- 👀 I’m interested in embedded systems and robotics
 - 💞️ I’m looking to collaborate on both the above.
 - 📫 How to reach me ...message me here.
 - 😄 Pronouns: He/Him
