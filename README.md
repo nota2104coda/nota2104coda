@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nota2104coda
+- 👋 Hi, I’m Jeevan at @nota2104coda
 - 👀 I’m interested in embedded systems and robotics
 - 💞️ I’m looking to collaborate on both the above.
 - 📫 How to reach me ...message me here.
